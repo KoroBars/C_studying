@@ -3,5 +3,5 @@ project(CodeLioKor C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(CodeLioKor "../Mini Project/FirstBot.c")
+add_executable(CodeLioKor "../Temp.c")
 
