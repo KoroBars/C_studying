@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Написать функцию, которая копирует одну строку в другую.
-void copy_str(char s_from[], char s_dest[]) {
+void copy_str(const char s_from[], char s_dest[]) {
     int i = 0;
     while (s_from[i] != '\0') {
         s_dest[i] = s_from[i];
