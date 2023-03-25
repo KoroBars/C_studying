@@ -3,4 +3,4 @@ project(CodeLioKor C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(CodeLioKor "../Temp6.c")
+add_executable(CodeLioKor "../Temp7.c")
